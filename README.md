@@ -21,7 +21,3 @@ Projets : Disaster Tweets
 - Bloc n°5  
 Industrialisation d’un algorithme d’apprentissage automatique et automatisation des processus de décision  
 Projet : Deployment
- 
-- Bloc n°6  
-Direction de projets de gestion de données  
-Projet : personnel, fin de formation
